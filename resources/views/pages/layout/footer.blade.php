@@ -19,7 +19,7 @@
                     </a>
                     <br />
                     <br />
-                    <strong>Email</strong>: info@ashburnlegal.com
+                    <strong>Email</strong>: <a href="mailto:info@ashburnlegal.com">info@ashburnlegal.com</a>
                 </div>
                 <span class="seperator extralight-border"></span>
             </section>
