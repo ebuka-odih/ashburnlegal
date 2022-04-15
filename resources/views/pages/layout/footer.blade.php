@@ -19,9 +19,7 @@
                     </a>
                     <br />
                     <br />
-                    <strong>Phone</strong>: 302-575-0873
-                    <br />
-                    <strong>Fax</strong>:&nbsp&nbsp&nbsp&nbsp&nbsp 302-575-1642
+                    <strong>Email</strong>: info@ashburnlegal.com
                 </div>
                 <span class="seperator extralight-border"></span>
             </section>
@@ -54,7 +52,7 @@
             </section>
 
         </div>
-        
+
         <div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '>
             <section id="text-4" class="widget clearfix widget_text">
                 <h3 class="widgettitle">Contact Us</h3>
