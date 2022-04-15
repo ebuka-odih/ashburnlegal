@@ -90,7 +90,7 @@
 								</span>
                                 </div>
                                 <div class="avia-button-wrap avia-button-center  avia-builder-el-17  el_after_av_hr  avia-builder-el-last  ">
-                                    <a href="https://trustwilliams.com/services/trust-estate-law/" class="avia-button   avia-icon_select-no avia-color-custom avia-size-medium avia-position-center " style="background-color:#0c3f57; border-color:#0c3f57; color:#ffffff; ">
+                                    <a href="{{ route('trust-estate-law') }}" class="avia-button   avia-icon_select-no avia-color-custom avia-size-medium avia-position-center " style="background-color:#0c3f57; border-color:#0c3f57; color:#ffffff; ">
                                         <span class="avia_iconbox_title">Learn More</span>
                                     </a>
                                 </div>

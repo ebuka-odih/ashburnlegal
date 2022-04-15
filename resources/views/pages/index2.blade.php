@@ -143,7 +143,7 @@
                                                     <div class='iconlist_content  '  itemprop="text"   style='font-size:17px; '>
                                                         <p>Our business law services are expansive covering Delaware opinion letters, books, records, fiduciary matters, contracts and many more highly sought after business needs.
                                                             <br />
-                                                            <a href="https://trustwilliams.com/services/business/">Learn More About Our Business Services</a>
+                                                            <a href="{{ route('business') }}">Learn More About Our Business Services</a>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -163,7 +163,7 @@
                                                     <div class='iconlist_content  '  itemprop="text"   style='font-size:17px; '>
                                                         <p>Our decades of experience in estate and trust law allows us to confidently represent our clients in matters such as wills, trusts, Delaware asset protection trusts, documents and funding along with general administration of estates and trusts.
                                                             <br />
-                                                            <a href="https://trustwilliams.com/services/trust-estate-law/">Learn More About Our Estate and Trust Services</a>
+                                                            <a href="{{ route('trust-estate-law') }}">Learn More About Our Estate and Trust Services</a>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -183,7 +183,6 @@
                                                     <div class='iconlist_content  '  itemprop="text"   style='font-size:17px; '>
                                                         <p>Through our affiliate company, IncNow, we assist in Delaware Entity formation for small and medium sized businesses.
                                                             <br />
-                                                            <a href="http://www.incnow.com">Visit Our Delaware Incorporation Service</a>
                                                         </p>
                                                     </div>
                                                 </div>

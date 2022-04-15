@@ -46,36 +46,15 @@
             <section id="text-3" class="widget clearfix widget_text">
                 <h3 class="widgettitle">Our Services</h3>
                 <div class="textwidget">
-                    <a href="http://trustwilliams.com/services/business/">Business</a>
+                    <a href="{{ route('business') }}">Business</a>
                     <br />
-                    <a href="http://trustwilliams.com/services/trust-estate-law/">Estate Planning & Trust</a>
+                    <a href="{{ route('trust-estate-law') }}">Estate Planning & Trust</a>
                 </div>
                 <span class="seperator extralight-border"></span>
             </section>
-            <section id="text-5" class="widget clearfix widget_text">
-                <h3 class="widgettitle">Our Attorneys</h3>
-                <div class="textwidget">
-                    <a href="https://trustwilliams.com/attorneys/david-williams/">David N. Williams, Esq.</a>
-                    <br />
-                    <a href="https://trustwilliams.com/attorneys/john-legare-williams/">John L. Williams, Esq.</a>
-                    <br />
-                    <a href="https://trustwilliams.com/attorneys/brian-crawford/">Brian C. Crawford, Esq.</a>
-                    <br />
-                </div>
-                <span class="seperator extralight-border"></span>
-            </section>
+
         </div>
-        <div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '>
-            <section class='widget widget_categories'>
-                <h3 class='widgettitle'>Categories</h3>
-                <ul>
-                    <li class="cat-item cat-item-1">
-                        <a href="https://trustwilliams.com/category/blog/">Blog</a>
-                    </li>
-                </ul>
-                <span class='seperator extralight-border'></span>
-            </section>
-        </div>
+        
         <div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '>
             <section id="text-4" class="widget clearfix widget_text">
                 <h3 class="widgettitle">Contact Us</h3>
@@ -163,21 +142,7 @@
                                             <span class="tooltiptext">Because we represent various individuals and entities and need to check for conflicts before receiving confidential information or providing advice, you agree by submitting this form you are not forming a lawyer/client relationship, nor have you received any legal advice. The information you submit is public information until we set-up a meeting to discuss and evaluate your case as a prospective client. Only if we agree to establish a separate meeting will you be a potential client.</span>
                                         </div>
                                     </li>
-                                    <li id="field_1_6"  class="gfield gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible"  data-js-reload="field_1_6">
-                                        <label class='gfield_label gfield_label_before_complex'  >Agree
-                                            <span class="gfield_required">
-																		<span class="gfield_required gfield_required_asterisk">*</span>
-																	</span>
-                                        </label>
-                                        <div class='ginput_container ginput_container_checkbox'>
-                                            <ul class='gfield_checkbox' id='input_1_6'>
-                                                <li class='gchoice gchoice_1_6_1'>
-                                                    <input class='gfield-choice-input' name='input_6.1' type='checkbox'  value='Yes, I Agree'  id='choice_1_6_1'   />
-                                                    <label for='choice_1_6_1' id='label_1_6_1'>Yes, I Agree</label>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </li>
+
                                 </ul>
                             </div>
                             <div class='gform_footer top_label'>

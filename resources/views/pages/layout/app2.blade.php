@@ -170,115 +170,23 @@ Updates: enabled
                                     </a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                            <a href="https://trustwilliams.com/services/business/" itemprop="url">
+                                            <a href="{{ route('business') }}" itemprop="url">
                                                 <span class="avia-bullet"></span>
                                                 <span class="avia-menu-text">Business</span>
                                             </a>
-                                            <ul class="sub-menu">
-                                                <li id="menu-item-749" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/business/books-and-records/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Books and Records</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-750" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/business/breach-of-contract/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Breach of Contract</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-751" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/business/breach-fiduciary-duty/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Breach of Fiduciary Duty</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-752" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/business/business-divorce/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Business Divorce</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-753" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/business/how-to-incorporate-delaware/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Business Formation</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-754" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/business/business-transactions-contracts/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Business Transactions Contracts</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-755" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/business/delaware-opinion-letter/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Delaware Opinion Letter</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-756" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/business/general-counsel/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">General Counsel</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/business/lawyer-negotiated-deals-contract-reviews/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Lawyer Negotiated Deals and Contract Reviews</span>
-                                                    </a>
-                                                </li>
-                                            </ul>
+
                                         </li>
                                         <li id="menu-item-746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                            <a href="https://trustwilliams.com/services/trust-estate-law/" itemprop="url">
+                                            <a href="{{ route('trust-estate-law') }}" itemprop="url">
                                                 <span class="avia-bullet"></span>
                                                 <span class="avia-menu-text">Trust and Estate Law</span>
                                             </a>
-                                            <ul class="sub-menu">
-                                                <li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/trust-estate-law/delaware-asset-protection-trust/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Delaware Asset Protection Trust</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-759" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/trust-estate-law/delaware-dynasty-trust/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Delaware Dynasty Trust</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-760" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/trust-estate-law/living-trust/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Documentation and Funding</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-761" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/trust-estate-law/estate-administration/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Estate Administration</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/trust-estate-law/trust-administration/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Trust Administration</span>
-                                                    </a>
-                                                </li>
-                                                <li id="menu-item-763" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://trustwilliams.com/services/trust-estate-law/wills-trusts-living-wills-durable-powers-attorneys/" itemprop="url">
-                                                        <span class="avia-bullet"></span>
-                                                        <span class="avia-menu-text">Wills, Trusts, Living Wills and Durable Powers of Attorneys</span>
-                                                    </a>
-                                                </li>
-                                            </ul>
+
                                         </li>
                                     </ul>
                                 </li>
                                 <li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3">
-                                    <a href="https://trustwilliams.com/attorneys/" itemprop="url">
+                                    <a href="{{ route('attorneys') }}" itemprop="url">
                                         <span class="avia-bullet"></span>
                                         <span class="avia-menu-text">ATTORNEYS</span>
                                         <span class="avia-menu-fx">
@@ -287,29 +195,10 @@ Updates: enabled
 															</span>
 														</span>
                                     </a>
-                                    <ul class="sub-menu">
-                                        <li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                            <a href="https://trustwilliams.com/attorneys/david-williams/" itemprop="url">
-                                                <span class="avia-bullet"></span>
-                                                <span class="avia-menu-text">David Nicol Williams</span>
-                                            </a>
-                                        </li>
-                                        <li id="menu-item-706" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                            <a href="https://trustwilliams.com/attorneys/john-legare-williams/" itemprop="url">
-                                                <span class="avia-bullet"></span>
-                                                <span class="avia-menu-text">John Legaré Williams</span>
-                                            </a>
-                                        </li>
-                                        <li id="menu-item-704" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                            <a href="https://trustwilliams.com/attorneys/brian-crawford/" itemprop="url">
-                                                <span class="avia-bullet"></span>
-                                                <span class="avia-menu-text">Brian Crawford</span>
-                                            </a>
-                                        </li>
-                                    </ul>
+
                                 </li>
                                 <li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4">
-                                    <a href="https://trustwilliams.com/contact/" itemprop="url">
+                                    <a href="{{ route('contact') }}" itemprop="url">
                                         <span class="avia-bullet"></span>
                                         <span class="avia-menu-text">CONTACT</span>
                                         <span class="avia-menu-fx">
@@ -319,18 +208,7 @@ Updates: enabled
 														</span>
                                     </a>
                                 </li>
-                                <li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special">
-                                    <a href="?s=" data-avia-search-tooltip="
 
-&lt;form action=&quot;https://trustwilliams.com/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
-	&lt;div&gt;
-		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
-		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
-			&lt;/div&gt;
-&lt;/form&gt;" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'>
-                                        <span class="avia_hidden_link_text">Search</span>
-                                    </a>
-                                </li>
                                 <li class="av-burger-menu-main menu-item-avia-special ">
                                     <a href="#">
 														<span class="av-hamburger av-hamburger--spin av-js-hamburger">
